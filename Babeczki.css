@@ -1,0 +1,151 @@
+
+body {
+    margin: 0;
+    font-family: 'Kaushan Script', cursive;
+
+}
+
+.topka {
+display: flex;
+    text-align: right;
+    height: 75px;
+
+}
+.topka2 {
+    display: flex;
+    background-color: white;
+        height: 60vh;
+        
+    
+    }
+.akapit {
+    display: flex;
+    margin: 0 auto;
+    display: flex;
+}
+
+h3 {
+    color: pink;
+ 
+}
+h5 {
+    color: black;
+ 
+}
+h6 {
+  color: grey;
+  font-size: 15px;
+  
+}
+
+a {
+    margin: 10px;
+    text-decoration: none;
+    color: pink;
+}
+.button{
+background-color: white;
+border: 2px solid black;;
+color: black;
+padding: 15px 5px;
+text-align: center;
+font-size: 16px;
+}
+
+.srodek-image {
+    background-image:
+    linear-gradient(rgba(202, 195, 143, 0.73), rgba(202, 195, 143, 0.507)), url("header-background.jpeg");
+    height: 700px;
+    background-position: center;
+  
+    background-size: cover;
+  }
+  .srodek-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  .srodek-button {
+  
+    border: 2px solid black;;
+    color: black;
+    padding: 10px 5px;
+    text-align: center;
+    font-size: 15px;
+  }
+  .srodek2-button {
+  
+    border: 2px solid black;;
+    color: black;
+    padding: 10px 5px;
+    text-align: center;
+    font-size: 15px;
+  }
+  .srodek-button:hover {
+    color: palevioletred;
+  }
+  p{
+      font-size:35px;
+  }
+  p span{
+      font-size:50px;
+      color: palevioletred;
+  }
+
+
+
+
+
+  .part1 {
+        
+    background-color: white;
+        height: 60vh;
+        width: 25%;
+        font-size: 15px;
+    
+    }
+    .part2 {
+      display: flex;
+      text-align: center;
+  background-color: white;
+      height: 60vh;
+      width: 50%;
+      align-content: center;
+  
+  }
+
+  .srodek2 {
+    text-align: center;
+background-color: rgb(207, 205, 205);
+    height: 40vh;
+    align-content: space-between;
+}
+
+  .srodek2 input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 20px;
+    border: none;
+  }
+  
+  .srodek2-button {
+  
+    border: 2px solid black;;
+    color: black;
+    padding: 10px 5px;
+    text-align: center;
+    font-size: 15px;
+    margin: 20px;
+  }
+   .kwadrat{
+    position: absolute;
+    top: 5%;
+  right: 30vh;
+  width: 400px;
+  height: 250px;
+  border: 5px solid #F0E68C;
+  padding: 20px;
+}
